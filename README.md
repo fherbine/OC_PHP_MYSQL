@@ -12,7 +12,7 @@ disable commits on the file wich permit database access (/db_auth.php).
 	an access to my db, creating a new PDO object.
 
 
-============================= Repository files =================================
+============================= REPOSITORY FILES =================================
 
 - tp_1: Contain my version of the first exercise from openclassroom's course
 	> https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql/tp-page-protegee-par-mot-de-passe
