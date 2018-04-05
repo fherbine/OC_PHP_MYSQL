@@ -15,6 +15,6 @@ disable commits on the file wich permit database access (/db_auth.php).
 ============================= Repository files =================================
 
 - tp_1: Contain my version of the first exercise from openclassroom's course
-		> https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql/tp-page-protegee-par-mot-de-passe
+	> https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql/tp-page-protegee-par-mot-de-passe
 
 - /sql: Contain tests did by myself during the course.
