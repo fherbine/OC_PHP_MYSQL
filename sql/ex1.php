@@ -15,10 +15,13 @@
 	echo '<table>';
 	while ($datas)
 	{
-		$id = $datas['id'];
-		$title = $datas['titre'];
-		$content = $datas['contenu'];
-		echo '<tr>' . '<td>' . $id .'</td><td>'. $title .'</td><td>'. $content .'</td>' . '</tr>';
+?>
+<tr>
+<td><?php echo $datas['id'];?></td>
+<td><?php echo $datas['titre'];?></td>
+<td><?php echo $datas['contenu'];?></td>
+</tr>
+<?php
 		$datas = $answer->fetch();
 	}
 	echo '</table>';
