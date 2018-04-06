@@ -21,3 +21,4 @@
 		</form>
 	</body>
 </html>
+<?php $req0->closeCursor() ?>
