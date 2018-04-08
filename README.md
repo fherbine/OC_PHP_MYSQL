@@ -21,3 +21,6 @@ disable commits on the file wich permit database access (/db_auth.php).
 
 - [/tp_2](tp_2): Contain my version of the second exercise from openclassrooms
   > https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql/tp-un-mini-chat
+
+- [/tp_3](tp_3): Contain my own version of the third exercise from openclassrooms
+  > https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql/tp-un-blog-avec-des-commentaires
